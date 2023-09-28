@@ -1,3 +1,4 @@
 # tijo-code
-This is my first github repository.\n
+This is my first github repository.
+<br>
 I am Tijo Thomas.
